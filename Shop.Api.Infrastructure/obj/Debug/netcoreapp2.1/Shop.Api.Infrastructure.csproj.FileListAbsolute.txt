@@ -1,0 +1,52 @@
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.deps.json
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.json
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.dev.json
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csprojAssemblyReference.cache
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfo.cs
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csproj.CopyComplete
+C:\Erik\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.deps.json
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.json
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.dev.json
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.pdb
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csprojAssemblyReference.cache
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfo.cs
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csproj.CopyComplete
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.pdb
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.deps.json
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.json
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.dev.json
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.pdb
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfo.cs
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.pdb
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.deps.json
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.json
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.runtimeconfig.dev.json
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Infrastructure.pdb
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\Shop.Api\Shop.Api.Infrastructure\bin\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\projects\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csprojResolveAssemblyReference.cache
+C:\projects\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.AssemblyInfo.cs
+C:\projects\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.dll
+C:\projects\Shop.Api\Shop.Api.Infrastructure\obj\Debug\netcoreapp2.1\Shop.Api.Infrastructure.pdb

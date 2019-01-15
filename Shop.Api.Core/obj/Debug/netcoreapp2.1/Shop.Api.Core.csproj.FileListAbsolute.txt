@@ -1,0 +1,33 @@
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.deps.json
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.runtimeconfig.json
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.runtimeconfig.dev.json
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.csprojAssemblyReference.cache
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.csproj.CoreCompileInputs.cache
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.AssemblyInfoInputs.cache
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.AssemblyInfo.cs
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\example\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.deps.json
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.runtimeconfig.json
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.runtimeconfig.dev.json
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.csprojResolveAssemblyReference.cache
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.AssemblyInfoInputs.cache
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.AssemblyInfo.cs
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\Users\Erikson\Downloads\Kumkol (2)\Kumkol\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\projects\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.deps.json
+C:\projects\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.runtimeconfig.json
+C:\projects\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.runtimeconfig.dev.json
+C:\projects\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\Shop.Api\Shop.Api.Core\bin\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\projects\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.csproj.CoreCompileInputs.cache
+C:\projects\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.AssemblyInfoInputs.cache
+C:\projects\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.AssemblyInfo.cs
+C:\projects\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.dll
+C:\projects\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.pdb
+C:\projects\Shop.Api\Shop.Api.Core\obj\Debug\netcoreapp2.1\Shop.Api.Core.csprojResolveAssemblyReference.cache
